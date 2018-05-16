@@ -8,8 +8,8 @@ def return_10()
   return 10
 end
 
-def subtract(num1, num2)
-  return num1 - num2
+def subtract(numa, num2)
+  return numa - num2
 end
 
 def multiply(num1, num2)
